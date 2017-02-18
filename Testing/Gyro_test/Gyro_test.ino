@@ -12,6 +12,7 @@
 //If the SDO pin is connected to the voltage supply, LSb is ‘1’ (address 1101001b). 
 //Otherwise, if the SDO pin is
 //connected to ground, the LSb value is ‘0’ (address 1101000b)
+//This code uses I2C interface. The SDA and SCL must be connected to pull up resistors. 51kOhm is a good place to start.
 
 int L3G4200D_Address = 105; //I2C address of the L3G4200D
 
