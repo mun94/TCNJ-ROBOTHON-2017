@@ -1,6 +1,6 @@
 # TCNJ-ROBOTHON-2017
 
-Here you will find useful sample code to begin testing and controlling your Fire Fighting robot
+Here you will find useful sample code to begin testing and controlling your Fire Fighting robot.
 
 Sample code can be used to test the
 
@@ -16,3 +16,6 @@ Sample code can be used to test the
 
 6. Flame detector
 
+
+
+If you would like to learn more about each component, refer to our [wiki page](https://github.com/mun94/TCNJ-ROBOTHON-2017/wiki) or the [presentation](https://docs.google.com/a/tcnj.edu/presentation/d/1QqkFgwnVxqzFXUHszKv53JQMVu9T3g4QhBWeQj0fjsc/edit?usp=sharing).
