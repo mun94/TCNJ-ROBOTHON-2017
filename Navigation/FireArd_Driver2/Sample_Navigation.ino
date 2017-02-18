@@ -1,7 +1,6 @@
 /*  Fire Fighting Robot Coding
  *  11/2/2016
  *  Code for robot with two motor drivers
- *  FiFi 3
  *  -------------------------------------------------------------
  *  NOTE: LOW = 0; HIGH = 1; PWM = 0~255 when using motor driver 2
  *  LOW is backwards, and HIGH is forward
